@@ -1,0 +1,66 @@
+.about{
+    background-color: white;
+    width: auto;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    justify-content: center; 
+    align-items: center;
+    display: flex;
+}
+.konten{
+    background-color: white;
+    width: auto;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.Konten1{
+    background-color: white;
+    width: auto;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.btn-custom{
+    background-color: aqua;
+
+}
+.btn-custom:hover{
+    background-color: rgb(16, 156, 156);
+}
+.konten2{
+    background-color: white;
+    width: auto;
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+}
+.btn-custom2:hover{
+    background-color: rgb(90, 156, 24);
+}
+.btn-custom3:hover{
+    background-color: rgb(172, 169, 33);
+}
+.btn-custom4:hover{
+    background-color: rgb(141, 12, 12);
+}
+.btn-custom2{
+    background-color: rgb(128, 255, 0);
+
+}
+.btn-custom3{
+    background-color: rgb(255, 251, 0);
+
+}
+.btn-custom4{
+    background-color:rgb(255, 0, 0);
+
+}
+.kontenresource{
+    background-color: white;
+    width: auto;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
